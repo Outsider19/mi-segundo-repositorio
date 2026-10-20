@@ -1,2 +1,2 @@
-# mi-segundo-repositorio
+# mi primer README
 Estoy aprendiendo a utilizar Github!
